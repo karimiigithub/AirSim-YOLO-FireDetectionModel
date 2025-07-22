@@ -1,0 +1,7 @@
+train: C:/Users/karimii/Desktop/yolov11_custom/train
+val: C:/Users/karimii/Desktop/yolov11_custom/val
+
+nc: 1
+
+names:
+  - fire
